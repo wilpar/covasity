@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353585954823",
+    "project_id": "covasity",
+    "storage_bucket": "covasity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353585954823:android:23bfaec4707286d1886aa2",
+        "android_client_info": {
+          "package_name": "com.example.covasity.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353585954823-gsnm77vtet9tob220hkcnengqhp64lh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldfn63xYWko9ck5fkGdVLGTIbp-hblfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353585954823-gsnm77vtet9tob220hkcnengqhp64lh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353585954823-1d626407ceg1l36gf1eedqagr0pke435.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.covasity.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
